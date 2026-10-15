@@ -1,0 +1,6 @@
+{
+  "name": "Gen Z Enterprise - WFH & Enterprise Staffing Solutions",
+  "description": "Official portal for Gen Z Enterprise Kolkata. Premier third-party vendor for Zepto, Blinkit, Amazon, Flipkart, Apna Mart, BFSI finance lead filtration, loan settlement, and remote work careers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
