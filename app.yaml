@@ -1,0 +1,10 @@
+runtime: nodejs20
+
+handlers:
+- url: /(.*\.(ico|js|css|png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot))$
+  static_files: dist/\1
+  upload: dist/.*\.(ico|js|css|png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot)$
+
+- url: /.*
+  static_files: dist/index.html
+  upload: dist/index.html

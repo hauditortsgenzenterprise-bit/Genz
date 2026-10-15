@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "your-google-cloud-firebase-project-id"
+  }
+}
